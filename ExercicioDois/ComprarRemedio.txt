@@ -1,0 +1,18 @@
+1. Se arrume
+2. Pega a receita dos remédios
+3. Pega o dinheiro
+4. Pega a chaves de casa
+5. Abra a porta de casa
+6. Fecha a porta
+7. Tranque a porta
+8. Vai até a farmácia
+9. Entra na farmácia
+10.Procure um atendente
+11.Entregue a receita ao atendente
+12.Pega os remédios
+13.Leve até o caixa
+14.Paga os remédios
+15.Volte pra casa
+16.Abra a porta de casa com as chaves
+17.Entre e descanse
+18.FimAlgoritmo

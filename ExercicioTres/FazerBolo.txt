@@ -1,0 +1,18 @@
+1. Vai até a cozinha
+2. Abra o armário
+3. Pegue a massa pronta do bolo
+4. Pegue a batedeira e uma vasilha
+5. Feche o armário
+6. Coloca a batedeira e a vasilha em cima da mesa 7. Vai até a geladeira
+8. Pega o leite e três ovos
+9. Despeja a massa do bolo, os ovos e o leite na vasilha
+10.Liga a batedeira
+11.Bata os ingredientes até a massa ficar homogênea 12. Após bater os ingredientes, vai até o armário
+13. Pega uma forma
+14.Despeja a massa dentro da forma
+15.Liga o forno
+16.Coloca a forma dentro do forno
+17.Espere ficar pronto
+18.Retire do forno
+19.Espera esfriar e pode servir.
+20.FimAlgoritmo

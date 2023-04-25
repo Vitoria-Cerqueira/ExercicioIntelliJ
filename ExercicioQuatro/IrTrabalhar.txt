@@ -1,0 +1,14 @@
+1-Acordar
+2-Arrumar a cama
+3-Ir ao banheiro
+4-Lavar o rosto
+5-escovar os dentes
+6-tomar banho
+7-Ir para o quarto
+8-Se trocar
+9-Ir para cozinha
+10-tomar café
+11-Voltar para o quarto
+12-ligar o computador
+13-começar a trabalhar
+14-FimAlgoritmo

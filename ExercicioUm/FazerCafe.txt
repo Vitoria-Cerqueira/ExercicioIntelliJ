@@ -1,0 +1,19 @@
+1. Ir até o armário
+2. Abra o armário
+3. Pegar uma vasilha
+4. Fechar o armário
+5. Colocar água na vasilha
+6. Levar ao fogo até ferver
+7. Ir até o armário
+8. Pegar a vasilha de café e o coador
+9. Coloca o coador de café em cima da vasilha 10. Pega uma colher
+11.Coloque três colheres de café no coador 12. Após ferver a água, retire do fogo
+13.Despejar a água no coador
+14.Após coar o café, retire o coador
+15.Pegue a vasilha e adoce o café
+16.Leve o café ao fogo, até ferver
+17.Após ferver retire do fogo
+18.Pegue uma caneca
+19.Despejar o café na caneca
+20.Beber
+21.FimAlgoritmo
